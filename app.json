@@ -3,7 +3,7 @@
     "name": "React Native EQS App",
     "slug": "react-native-eqs-app",
     "version": "1.0.0",
-    "sdkVersion": "50.0.0",
+    "sdkVersion": "53.0.0",
     "platforms": ["ios", "android"],
     "orientation": "portrait",
     "icon": "./assets/icon.png",
